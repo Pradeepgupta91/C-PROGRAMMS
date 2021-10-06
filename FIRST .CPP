@@ -6,6 +6,9 @@ INT MAIN ()     unicron
   RED YELLOW 
 FILE IS GOOD NOW
 FILE IS BETTER 
+yellow 
+purple 
+pink 
 
 
 
